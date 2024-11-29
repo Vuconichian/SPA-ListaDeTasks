@@ -1,8 +1,3 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Este es un sistema de administración de tareas desarrollado con React y configurado con Vite, una herramienta moderna que optimiza el desarrollo frontend gracias a su rapidez y eficiencia. 
+La aplicación permite a los usuarios gestionar sus tareas de forma sencilla, ofreciendo funcionalidades como la creación, visualización y eliminación de tareas. 
+Su interfaz está diseñada para ser rápida, intuitiva y responsiva, brindando una experiencia de usuario fluida y adecuada para la organización personal o la gestión de proyectos pequeños.
