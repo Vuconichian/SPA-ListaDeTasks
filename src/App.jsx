@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import { Formulario } from './components/formulario'
+import { Formulario } from './components/Formulario'
 import {  Header }  from './components/Header'
 import { ListadoTareas } from './components/ListadoTareas'
 import './App.css'
